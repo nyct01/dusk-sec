@@ -10,7 +10,9 @@ header {
   background: #000000;
   padding: 20px;
 }
-
+h1 {
+  color: #ffffff
+}
 nav a {
   margin-right: 15px;
   text-decoration: none;
